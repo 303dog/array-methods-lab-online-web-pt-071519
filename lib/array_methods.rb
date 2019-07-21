@@ -14,7 +14,7 @@ def using_first=["1","4","2"]
 using_first.first
 end
 
-def using_last(array)
+def using_last=
 
 end
 
