@@ -10,8 +10,8 @@ def using_reverse=["1","4","2"]
 using_reverse.reverse
 end
 
-def using_first=
-
+def using_first=["1","4","2"]
+using_first.first
 end
 
 def using_last(array)
