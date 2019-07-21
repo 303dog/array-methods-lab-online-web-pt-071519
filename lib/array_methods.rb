@@ -6,11 +6,11 @@ def using_sort=["1","4","2"]
 using_sort.sort
 end
 
-def using_reverse(array)
-
+def using_reverse=["1","4","2"]
+using_reverse.reverse
 end
 
-def using_first(array)
+def using_first=
 
 end
 
