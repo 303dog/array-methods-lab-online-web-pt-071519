@@ -18,6 +18,6 @@ def using_last=["1","4","2"]
 using_last.last
 end
 
-def using_size=
-
+def using_size=["1","4","2"]
+using_size.size
 end
