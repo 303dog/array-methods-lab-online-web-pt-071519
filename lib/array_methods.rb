@@ -2,7 +2,7 @@ def using_include(array, element)
 array.include?(element)
 end
 
-def using_sort(array)
+def using_sort=["1","4","2"]
 using_sort.sort
 end
 
